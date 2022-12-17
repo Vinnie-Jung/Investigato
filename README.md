@@ -14,14 +14,14 @@ Investigato é um projeto de Visual Novel feito em RenPy proposto academicamente
 **Link do Itch.io:**
 
 Membros da equipe:
-  - Vinícius Jung                   **(Programador)**
-  - Giulia Sthéphanie dos Santos    **(Roteirista)**
-  - Pedro                           **(Sonoplasta)**
-  - Erik von Wangenheim             **(Artista de personagens)**
-  - Lucas Jordano                   **(Produtor)**
-  - Lucca Maccari                   **()**
-  - Gabriela de Campos Cuello       **(Identidade Visual e arte do menu)**
-  - Marília Galhós de Aguiar        **(Prototipagem)**
+  - Vinícius Jung                       **(Programador)**
+  - Giulia Sthéfanie Martins dos Santos **(Roteirista e artista de cenários)**
+  - Pedro Camargo Aita Bittencourt      **(Sonoplasta)**
+  - Erik von Wangenheim                 **(Artista de personagens)**
+  - Lucas Jordano                       **(Produtor)**
+  - Lucca Maccari                       **(Lead game designer)**
+  - Gabriela de Campos Cuello           **(Identidade Visual e arte do menu)**
+  - Marília Galhós de Aguiar            **(Prototipagem)**
 
 ## Resumo do Jogo
 
