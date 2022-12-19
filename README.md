@@ -31,9 +31,15 @@ Você é um gato que vive sua vida simples e calma de felino doméstico, porém 
 
 #### Gato (Jogador):
 
+É o personagem principal e seu nome é definido pelo próprio jogador. Como um bom gato você gosta de viver uma vida tranquila e sossegada, porém frequentemente sede à sua curiosidade.
+
 #### Vicente:
 
+É o dono do gato. Vicente é um jornalista e detetive que investiga o sumiço de uma pequena cachorrinha da raça Pinscher.
+
 #### Teresa:
+
+
 
 #### Clotilde:
 
