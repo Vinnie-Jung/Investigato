@@ -27,3 +27,29 @@ Membros da equipe:
 
 Você é um gato que vive sua vida simples e calma de felino doméstico, porém sua curiosidade é atiçada ao se deparar com o desaparecimento de alguém conhecido. Seu dono, Vicente, é um jornalista e detetive que têm como objetivo resolver esse caso. Ao longo da história você poderá decidir as maneiras de lidar com as situações, conhecendo diversos personagens humanos e animais, além de conhecer e explorar vários cenários da vizinhança. Será que você é capaz de resolver esse mistério sozinho? Ou será que precisará da ajuda de seu dono?
 
+### Personagens
+
+#### Gato (Jogador):
+
+#### Vicente:
+
+#### Teresa
+
+#### Clotilde
+
+#### Laranjinha
+
+#### Clara
+
+#### Josué
+
+#### Gata de rua
+
+#### Cachorro
+
+#### Calopsita
+
+#### Corvo
+
+#### Frederico
+
