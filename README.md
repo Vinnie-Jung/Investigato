@@ -33,23 +33,23 @@ Você é um gato que vive sua vida simples e calma de felino doméstico, porém 
 
 #### Vicente:
 
-#### Teresa
+#### Teresa:
 
-#### Clotilde
+#### Clotilde:
 
-#### Laranjinha
+#### Laranjinha:
 
-#### Clara
+#### Clara:
 
-#### Josué
+#### Josué:
 
-#### Gata de rua
+#### Gata de rua:
 
-#### Cachorro
+#### Cachorro:
 
-#### Calopsita
+#### Calopsita:
 
-#### Corvo
+#### Corvo:
 
-#### Frederico
+#### Frederico:
 
