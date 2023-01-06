@@ -11,7 +11,7 @@ Investigato é um projeto de Visual Novel feito em RenPy proposto academicamente
 É importante lembrar que o jogo deixa alguns mistérios em aberto, que possivelmente serão apresentados futuramente.
 
 **Plataformas suportadas:** Windows, Mac e Linux (incluindo as versões x86) \
-**Link do Itch.io:**
+**Link do Itch.io: https://vinnie-jung.itch.io/investigato**
 
 Membros da equipe:
   - Vinícius Jung                       **(Programador)**
@@ -39,23 +39,41 @@ Você é um gato que vive sua vida simples e calma de felino doméstico, porém 
 
 #### Teresa:
 
-
+Teresa é uma senhora de idade que está preocupada com o desaparecimento de sua cadelinha.
 
 #### Clotilde:
 
+Uma pequena e velhinha Pinscher que desapareceu.
+
 #### Laranjinha:
+
+Um gato laranja e bem mimado que vive na casa de uma família nobre. Seu orgulho e arrogância são bem característicos.
 
 #### Clara:
 
+A policial local do bairro, está investigando um grande caso de desaparecimento de animais na região.
+
 #### Josué:
+
+Um morador do bairro. Não se sabe muito sobre Josué, mas seu comportamento muitas vezes tende a ser ... suspeito.
 
 #### Gata de rua:
 
+Uma cinza felina que vive nas ruas. Parece ser bem esperta e ligeira, porém um pouco egoísta também.
+
 #### Cachorro:
+
+Um Border Collie bem suspeito que tem andado pela região nos últimos dias.
 
 #### Calopsita:
 
+Uma ave um tanto quanto desajeitada, mas parece saber de bastante coisa. Será que ela possue respostas para o que se procura?
+
 #### Corvo:
 
+Outra ave que parece ser bem observadora e misteriosa.
+
 #### Frederico:
+
+Nunca foi visto no bairro até poucos dias atrás. Será que ele tem algo haver com o que está rolando na cidade?
 
